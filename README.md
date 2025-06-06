@@ -36,8 +36,8 @@ Here are some of the projects I’ve worked on:
 
 ### 📬 Connect with Me
 
-- 📫 **Email:** jainam258@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) *(replace this with your real link)*
+- 📫 **Email:** jainamshah2589@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jainam-shah-2582007aug/
 
 ---
 
