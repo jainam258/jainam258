@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jainam Shah</h1>
+<h3 align="center">💻 Computer Engineering Student | 🚀 Exploring Programming, IoT & Software Integration</h3>
 
-<!--
-**jainam258/jainam258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 I’m currently a college student pursuing a degree in **Computer Engineering**.  
+📚 I’m learning about **programming**, **electronics**, and building skills in **software integration**.  
+💡 I love creating tech solutions — especially with **Flutter**, **IoT**, and **Python**.  
+📈 Always curious to explore new tools and improve my development workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools
+- 🌐 Flutter, Dart, HTML, CSS, PHP
+- ⚙️ Firebase, MySQL
+- 🤖 Arduino, NodeMCU, Sensors (MQ4, Flame, etc.)
+- 🐍 Python (Automation & Scripts)
+- 🛢️ SQL, Firebase Realtime DB
+- 🧰 Git & GitHub
+
+---
+
+### 📌 Featured Projects
+Here are some of the projects I’ve worked on:
+- 🔥 **[Industrial Safety Monitoring System](https://github.com/jainam258/Industrial_Safety_Monitoring_system)** – Flutter + IoT
+- 📍 **[Google Map Integration in Flutter](https://github.com/jainam258/Google-map-project-in-flutter)**
+- 🏪 **[Basic Electronic Shop Website](https://github.com/jainam258/basic-electronic-shop-project)**
+- 📚 **[Book Store App (Java)](https://github.com/jainam258/Book-Store-app-in-android)**
+
+---
+
+### 📬 Connect with Me
+
+- 📫 **Email:** jainam258@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) *(replace this with your real link)*
+
+---
+
+⭐ Thanks for visiting my GitHub! Let’s build something cool together.
+
