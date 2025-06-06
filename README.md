@@ -1,4 +1,4 @@
-<img src="profile bannerpng.png" alt="Jainam Shah Banner" style="width:100%;"/>
+<img src="profile banner.png" alt="Jainam Shah Banner" style="width:100%;"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jainam258&color=blue" alt="Visitor count"/>
