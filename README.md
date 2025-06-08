@@ -1,9 +1,3 @@
-<img src="profile banner.png" alt="Jainam Shah Banner" style="width:100%;" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jainam258&color=blue" alt="Visitor count"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Jainam Shah</h1>
 <h3 align="center">💻 Computer Engineering Student | 🚀 Exploring Programming, IoT & Software Integration</h3>
 
