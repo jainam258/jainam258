@@ -73,7 +73,7 @@
 
 ### 📌 Featured Projects
 Here are some of the projects I’ve worked on:
-- 🔥 **[Industrial Safety Monitoring System](https://github.com/jainam258/Industrial_Safety_Monitoring_system)** – Flutter + IoT
+- 🔥 **[Industrial Safety Monitoring System](https://github.com/jainam258/Industrial_Safetty_Monitoring_system)** – Flutter + IoT
 - 📍 **[Google Map Integration in Flutter](https://github.com/jainam258/Google-map-project-in-flutter)** - Flutter
 - 🏪 **[Basic Electronic Shop Website](https://github.com/jainam258/basic-electronic-shop-project)** - Python
 - 📚 **[Book Store App (Java)](https://github.com/jainam258/Book-Store-app-in-android)** - Java
