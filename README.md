@@ -1,8 +1,9 @@
-<img src="profile banner.png" alt="Jainam Shah Banner" style="width:100%;"/>
+<img src="profile banner.png" alt="Jainam Shah Banner" style="width:100%;" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jainam258&color=blue" alt="Visitor count"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Jainam Shah</h1>
 <h3 align="center">💻 Computer Engineering Student | 🚀 Exploring Programming, IoT & Software Integration</h3>
 
@@ -35,11 +36,23 @@ Here are some of the projects I’ve worked on:
 ---
 
 ### 📬 Connect with Me
-
-- 📫 **Email:** jainamshah2589@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/jainam-shah-2582007aug/
+- 📫 **Email:** [jainamshah2589@gmail.com](mailto:jainamshah2589@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/jainam-shah-2582007aug](https://www.linkedin.com/in/jainam-shah-2582007aug)
 
 ---
 
-⭐ Thanks for visiting my GitHub! Let’s build something cool together.
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jainam258&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainam258&theme=radical" alt="GitHub streak" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainam258&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+---
+
+⭐ **Thanks for visiting my GitHub!**  
+Let’s build something cool together.
