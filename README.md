@@ -10,99 +10,77 @@
 
 ---
 
-### 🛠️ Technologies & Tools
-### 🧑‍💻 Programming Languages
+## 🛠️ Technologies & Tools
+
+### 💻 Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> Python &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> Java &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /> C &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /> C++ &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" /> Dart &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> JavaScript &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /> PHP &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> Flutter
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> HTML
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> CSS
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript
 </p>
 
----
-
-### 🎨 Frontend Development
+### 🔙 Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" /> Flutter &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> HTML5 &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> CSS3 &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /> Tailwind CSS &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> Node.js
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/> Laravel
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> Firebase Functions
 </p>
 
----
-
-### 🧩 Backend Development
+### 🛢️ Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> Node.js &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" /> Laravel &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /> Firebase Functions &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> MongoDB
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/> Oracle
 </p>
 
----
-
-### 🗄️ Database
+### 🤖 IoT & Embedded
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" /> MySQL &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" /> MongoDB &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" /> Firebase Realtime DB &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" /> Oracle DB &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/> Arduino
 </p>
 
----
-
-### 🔌 IoT & Hardware
+### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" /> Arduino &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" /> NodeMCU & Sensors &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> Git
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> GitHub
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> Figma
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> AWS
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/> Google Cloud
 </p>
 
 ---
 
-### ⚙️ Tools & Platforms
+## 📌 Featured Projects
+
+- 🔥 **[Industrial Safety Monitoring System](https://github.com/jainam258/Industrial_Safety_Monitoring_system)** – Flutter + IoT  
+- 📍 **[Google Map Integration in Flutter](https://github.com/jainam258/Google-map-project-in-flutter)**  
+- 🏪 **[Basic Electronic Shop Website](https://github.com/jainam258/basic-electronic-shop-project)**  
+- 📚 **[Book Store App (Java)](https://github.com/jainam258/Book-Store-app-in-android)**  
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> GitHub &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" /> Figma &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /> AWS &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" /> Google Cloud &nbsp;
+  <a href="mailto:jainamshah2589@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jainam-shah-2582007aug/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
----
-
-### 📌 Featured Projects
-Here are some of the projects I’ve worked on:
-- 🔥 **[Industrial Safety Monitoring System](https://github.com/jainam258/Industrial_Safetty_Monitoring_system)** – Flutter + IoT
-- 📍 **[Google Map Integration in Flutter](https://github.com/jainam258/Google-map-project-in-flutter)** - Flutter
-- 🏪 **[Basic Electronic Shop Website](https://github.com/jainam258/basic-electronic-shop-project)** - Python
-- 📚 **[Book Store App (Java)](https://github.com/jainam258/Book-Store-app-in-android)** - Java
 
 ---
 
-### 📬 Connect with Me
-- 📫 **Email:** [jainamshah2589@gmail.com](mailto:jainamshah2589@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/jainam-shah-2582007aug](https://www.linkedin.com/in/jainam-shah-2582007aug)
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainam258&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jainam258&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jainam258&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jainam258&theme=dark&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainam258&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainam258&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=jainam258&color=blue" alt="Visitor count"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jainam258&style=flat-square&color=blue" alt="Visitor Counter"/>
-</p>
----
 
-⭐ **Thanks for visiting my GitHub!**  
-Let’s build something cool together.
