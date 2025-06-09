@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Jainam Shah</h1>
+  <h1 align="center">Hi 👋, I'm Jainam Shah</h1>
 <h3 align="center">💻 Computer Engineering Student | 🚀 Exploring Programming, IoT & Software Integration</h3>
 
 ---
-
+## 🙋‍♂️ About Me
 🔭 I’m currently a college student pursuing a degree in **Computer Engineering**.  
 📚 I’m learning about **programming**, **electronics**, and building skills in **software integration**.  
-💡 I love creating tech solutions — especially with **Flutter**, **IoT**, and **Python**.  
+💡 I love creating tech solutions — especially with  **Python**, **Java**, **Flutter**, and **IoT**.
 📈 Always curious to explore new tools and improve my development workflow.
+🧠 Love solving real-world problems using tech  
+✍️ Actively building and contributing to open-source projects
 
 ---
 
