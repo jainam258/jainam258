@@ -1,1 +1,1 @@
-<img src="terminal.svg" width="620"/>
+<img src="terminal.svg" width="720"/>
