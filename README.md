@@ -1,1 +1,1 @@
-<img src="terminal_profile.svg" width="720"/>
+<img src="terminal_profile.svg" width="740"/>
