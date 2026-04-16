@@ -1,0 +1,161 @@
+<svg width="680" height="370" viewBox="0 0 680 370" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', Courier, monospace">
+  <defs>
+    <style>
+      .bg { fill: #0d0221; }
+      .border { fill: none; stroke: #00ff88; stroke-width: 1.5; }
+      .title { fill: #00ff88; font-size: 12px; font-weight: bold; }
+      .divider { fill: none; stroke: #00ff88; stroke-width: 1; }
+      .key { fill: #00bfff; font-size: 11.5px; }
+      .val { fill: #ffffff; font-size: 11.5px; }
+      .accent { fill: #00ff88; font-size: 11.5px; }
+      .cursor { fill: #00ff88; animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+
+      .line1  { opacity: 0; animation: show 0.1s 0.3s  forwards; }
+      .line2  { opacity: 0; animation: show 0.1s 0.6s  forwards; }
+      .line3  { opacity: 0; animation: show 0.1s 0.9s  forwards; }
+      .line4  { opacity: 0; animation: show 0.1s 1.2s  forwards; }
+      .line5  { opacity: 0; animation: show 0.1s 1.5s  forwards; }
+      .line6  { opacity: 0; animation: show 0.1s 1.8s  forwards; }
+      .line7  { opacity: 0; animation: show 0.1s 2.1s  forwards; }
+      .line8  { opacity: 0; animation: show 0.1s 2.4s  forwards; }
+      .line9  { opacity: 0; animation: show 0.1s 2.7s  forwards; }
+      .line10 { opacity: 0; animation: show 0.1s 3.0s  forwards; }
+      .line11 { opacity: 0; animation: show 0.1s 3.3s  forwards; }
+      @keyframes show { to { opacity: 1; } }
+
+      .bar1 { opacity: 0; animation: show 0.05s 1.55s forwards; }
+      .bar2 { opacity: 0; animation: show 0.05s 1.65s forwards; }
+      .bar3 { opacity: 0; animation: show 0.05s 1.75s forwards; }
+      .bar4 { opacity: 0; animation: show 0.05s 1.85s forwards; }
+      .bar5 { opacity: 0; animation: show 0.05s 1.95s forwards; }
+      .bar6 { opacity: 0; animation: show 0.05s 2.05s forwards; }
+      .bar7 { opacity: 0; animation: show 0.05s 2.15s forwards; }
+      .bar8 { opacity: 0; animation: show 0.05s 2.25s forwards; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="680" height="370" rx="10" class="bg"/>
+
+  <!-- Outer border -->
+  <rect x="10" y="10" width="660" height="350" rx="5" class="border"/>
+
+  <!-- Top divider -->
+  <line x1="10" y1="42" x2="670" y2="42" stroke="#00ff88" stroke-width="1"/>
+
+  <!-- Corner connectors -->
+  <text x="11" y="46" fill="#00ff88" font-size="13">╠</text>
+  <text x="659" y="46" fill="#00ff88" font-size="13">╣</text>
+
+  <!-- Title -->
+  <text x="340" y="31" text-anchor="middle" class="title">⣿  SYSTEM BOOT — USER PROFILE  ⣿</text>
+
+  <!-- Traffic lights -->
+  <circle cx="30"  cy="26" r="5" fill="#ff5f57"/>
+  <circle cx="48"  cy="26" r="5" fill="#febc2e"/>
+  <circle cx="66"  cy="26" r="5" fill="#28c840"/>
+
+  <!-- Separator label: identity -->
+  <text x="30" y="62" fill="#555577" font-size="10">── identity ─────────────────────────────────────────────────────────</text>
+
+  <!-- Line 1: Name -->
+  <g class="line1">
+    <text x="30"  y="80" class="key">▸  Name</text>
+    <text x="155" y="80" fill="#00ff88" font-size="11.5">:</text>
+    <text x="172" y="80" class="val">Jainam Shah</text>
+  </g>
+
+  <!-- Line 2: Role -->
+  <g class="line2">
+    <text x="30"  y="100" class="key">▸  Role</text>
+    <text x="155" y="100" fill="#00ff88" font-size="11.5">:</text>
+    <text x="172" y="100" class="val">Computer Engineering Student</text>
+  </g>
+
+  <!-- Line 3: Location -->
+  <g class="line3">
+    <text x="30"  y="120" class="key">▸  Location</text>
+    <text x="155" y="120" fill="#00ff88" font-size="11.5">:</text>
+    <text x="172" y="120" class="val">Gujarat, India 🇮🇳</text>
+  </g>
+
+  <!-- Line 4: OS -->
+  <g class="line4">
+    <text x="30"  y="140" class="key">▸  OS</text>
+    <text x="155" y="140" fill="#00ff88" font-size="11.5">:</text>
+    <text x="172" y="140" class="val">Brain v22 — caffeine-powered ☕</text>
+  </g>
+
+  <!-- Separator label: status -->
+  <text x="30" y="158" fill="#555577" font-size="10">── status ──────────────────────────────────────────────────────────</text>
+
+  <!-- Line 5: Status bar -->
+  <g class="line5">
+    <text x="30"  y="176" class="key">▸  Status</text>
+    <text x="155" y="176" fill="#00ff88" font-size="11.5">:</text>
+    <text x="172" y="176" class="val">[ </text>
+    <text x="194" y="176" fill="#00ff88" font-size="11.5" class="bar1">█</text>
+    <text x="207" y="176" fill="#00ff88" font-size="11.5" class="bar2">█</text>
+    <text x="220" y="176" fill="#00ff88" font-size="11.5" class="bar3">█</text>
+    <text x="233" y="176" fill="#00ff88" font-size="11.5" class="bar4">█</text>
+    <text x="246" y="176" fill="#00ff88" font-size="11.5" class="bar5">█</text>
+    <text x="259" y="176" fill="#00ff88" font-size="11.5" class="bar6">█</text>
+    <text x="272" y="176" fill="#00ff88" font-size="11.5" class="bar7">█</text>
+    <text x="285" y="176" fill="#00ff88" font-size="11.5" class="bar8">█</text>
+    <text x="298" y="176" fill="#1a1a3e" font-size="11.5">██</text>
+    <text x="324" y="176" class="val"> ] Building something new...</text>
+  </g>
+
+  <!-- Line 6: Uptime -->
+  <g class="line6">
+    <text x="30"  y="196" class="key">▸  Uptime</text>
+    <text x="155" y="196" fill="#00ff88" font-size="11.5">:</text>
+    <text x="172" y="196" class="val">Still going strong 🔥</text>
+  </g>
+
+  <!-- Separator label: tech -->
+  <text x="30" y="214" fill="#555577" font-size="10">── tech ────────────────────────────────────────────────────────────</text>
+
+  <!-- Line 7: Tech Stack -->
+  <g class="line7">
+    <text x="30"  y="232" class="key">▸  Stack</text>
+    <text x="155" y="232" fill="#00ff88" font-size="11.5">:</text>
+    <text x="172" y="232" class="val">PHP · Dart · HTML · MySQL · Flutter</text>
+  </g>
+
+  <!-- Line 8: Interests -->
+  <g class="line8">
+    <text x="30"  y="252" class="key">▸  Interests</text>
+    <text x="155" y="252" fill="#00ff88" font-size="11.5">:</text>
+    <text x="172" y="252" class="val">web-dev · app-dev · backend · IoT</text>
+  </g>
+
+  <!-- Line 9: Currently Learning -->
+  <g class="line9">
+    <text x="30"  y="272" class="key">▸  Learning</text>
+    <text x="155" y="272" fill="#00ff88" font-size="11.5">:</text>
+    <text x="172" y="272" fill="#febc2e" font-size="11.5">React · Node.js · Cloud ⚡</text>
+  </g>
+
+  <!-- Line 10: LinkedIn -->
+  <g class="line10">
+    <text x="30"  y="292" class="key">▸  LinkedIn</text>
+    <text x="155" y="292" fill="#00ff88" font-size="11.5">:</text>
+    <text x="172" y="292" fill="#00bfff" font-size="11.5">linkedin.com/in/jainam-dev 🔗</text>
+  </g>
+
+  <!-- Line 11: Open to -->
+  <g class="line11">
+    <text x="30"  y="312" class="key">▸  Open to</text>
+    <text x="155" y="312" fill="#00ff88" font-size="11.5">:</text>
+    <text x="172" y="312" fill="#28c840" font-size="11.5">Internships · Collabs · Tech Projects 🚀</text>
+  </g>
+
+  <!-- Cursor -->
+  <g class="line11">
+    <text x="30" y="340" fill="#00ff88" font-size="11.5">$</text>
+    <rect x="44" y="328" width="8" height="13" class="cursor"/>
+  </g>
+
+</svg>
